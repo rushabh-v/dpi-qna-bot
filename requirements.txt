@@ -1,0 +1,6 @@
+openai==1.37.1
+extra-streamlit-components==0.1.71
+streamlit==1.29.0
+streamlit-authenticator==0.3.3
+streamlit-timeline==0.0.2
+streamlit-vis-timeline==0.3.0
